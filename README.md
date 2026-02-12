@@ -2,16 +2,16 @@
 
 A highly interactive and customizable personal dashboard built with React, featuring drag-and-drop widgets, dark mode, and comprehensive testing.
 
-## 🎯 Key Highlights
+##  Key Highlights
 
-- ✅ **19/19 Tests Passing** - Comprehensive test coverage with Jest & React Testing Library
-- 🎨 **Fully Responsive** - 5 breakpoints (xxs to lg) with mobile-first design
-- 🌓 **Dark Mode** - Persistent theme switching
-- 🔄 **Drag & Drop** - Rearrangeable widgets with react-grid-layout
-- 💾 **State Persistence** - All preferences saved to localStorage
-- 🐳 **Docker Ready** - Full containerization with Docker Compose
-- ♿ **Accessible** - WCAG-compliant with ARIA attributes
-- 🛡️ **Error Boundaries** - Graceful error handling
+-  **19/19 Tests Passing** - Comprehensive test coverage with Jest & React Testing Library
+-  **Fully Responsive** - 5 breakpoints (xxs to lg) with mobile-first design
+-  **Dark Mode** - Persistent theme switching
+-  **Drag & Drop** - Rearrangeable widgets with react-grid-layout
+-  **State Persistence** - All preferences saved to localStorage
+-  **Docker Ready** - Full containerization with Docker Compose
+-  **Accessible** - WCAG-compliant with ARIA attributes
+-  **Error Boundaries** - Graceful error handling
 
 ## Features
 
@@ -58,38 +58,13 @@ npm install
 copy .env.example .env
 ```
 
-4. (Optional) Add your OpenWeatherMap API key to `.env`:
-```
-VITE_WEATHER_API_KEY=your_actual_api_key_here
-```
-
-5. Start the development server:
+4. Start the development server:
 ```bash
 npm run dev
 ```
 
-6. Open http://localhost:5173 in your browser
+5. Open http://localhost:5173 in the browser
 
-### Mock API (Optional)
-
-For testing without a real weather API:
-
-1. Install json-server globally (if not already installed):
-```bash
-npm install -g json-server
-```
-
-2. Start the mock server (in a separate terminal):
-```bash
-npm run mock-api
-```
-
-Or manually:
-```bash
-json-server --watch db.json --port 3000
-```
-
-The mock API provides realistic weather data for 8 cities: London, Paris, New York, Tokyo, Sydney, Berlin, Toronto, and Mumbai.
 
 ## Docker Deployment
 
@@ -262,13 +237,7 @@ my-dashboard/
 - `npm run test:watch` - Run tests in watch mode
 - `npm run coverage` - Generate coverage report
 - `npm run lint` - Lint code
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+  
 
 ## Future Enhancements
 
@@ -279,11 +248,3 @@ my-dashboard/
 - Real-time data updates with WebSockets
 - Collaborative dashboards
 - Custom widget creation API
-
-## License
-
-MIT
-
-## Contributing
-
-Contributions welcome! Please open an issue or submit a pull request.
