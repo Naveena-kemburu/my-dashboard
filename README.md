@@ -240,7 +240,10 @@ my-dashboard/
 
 ## Screenshots of output
 
-<img width="300" height="169" alt="Screenshot 2026-02-12 193130" src="https://github.com/user-attachments/assets/13c43d7e-8ca2-48b1-b471-c2ff008a4f32" />
+<img width="640" height="360" alt="Screenshot 2026-02-12 193130" src="https://github.com/user-attachments/assets/13c43d7e-8ca2-48b1-b471-c2ff008a4f32" />
+
+<img width="640" height="360" alt="Screenshot 2026-02-12 192958" src="https://github.com/user-attachments/assets/419cc5bf-657b-4d7b-8282-eafccba20047" />
+
 
 
 
