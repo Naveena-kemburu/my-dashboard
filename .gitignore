@@ -23,8 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-# Environment variables
-.env
+# Environment variables (commented out to allow .env to be pushed)
+# .env
 .env.local
 .env.production
 
