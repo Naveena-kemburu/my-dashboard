@@ -237,7 +237,11 @@ my-dashboard/
 - `npm run test:watch` - Run tests in watch mode
 - `npm run coverage` - Generate coverage report
 - `npm run lint` - Lint code
-  
+
+## Screenshots of output
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42cc5c0f-01e0-495b-871f-6d161ca0484d" />
+
 
 ## Future Enhancements
 
