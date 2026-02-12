@@ -1,0 +1,68 @@
+{
+  "weather": [
+    {
+      "id": "london",
+      "city": "London",
+      "temperature": 15,
+      "condition": "Cloudy",
+      "humidity": 75,
+      "windSpeed": 12
+    },
+    {
+      "id": "paris",
+      "city": "Paris",
+      "temperature": 18,
+      "condition": "Sunny",
+      "humidity": 65,
+      "windSpeed": 8
+    },
+    {
+      "id": "newyork",
+      "city": "New York",
+      "temperature": 22,
+      "condition": "Partly Cloudy",
+      "humidity": 70,
+      "windSpeed": 10
+    },
+    {
+      "id": "tokyo",
+      "city": "Tokyo",
+      "temperature": 25,
+      "condition": "Sunny",
+      "humidity": 60,
+      "windSpeed": 6
+    },
+    {
+      "id": "sydney",
+      "city": "Sydney",
+      "temperature": 20,
+      "condition": "Rainy",
+      "humidity": 85,
+      "windSpeed": 15
+    },
+    {
+      "id": "berlin",
+      "city": "Berlin",
+      "temperature": 12,
+      "condition": "Overcast",
+      "humidity": 80,
+      "windSpeed": 14
+    },
+    {
+      "id": "toronto",
+      "city": "Toronto",
+      "temperature": 16,
+      "condition": "Cloudy",
+      "humidity": 72,
+      "windSpeed": 11
+    },
+    {
+      "id": "mumbai",
+      "city": "Mumbai",
+      "temperature": 30,
+      "condition": "Sunny",
+      "humidity": 78,
+      "windSpeed": 7
+    }
+  ]
+}
