@@ -1,6 +1,6 @@
 # Personal Dashboard Application
 
-A highly interactive and customizable personal dashboard built with React, featuring drag-and-drop widgets, dark mode, and comprehensive testing
+A highly interactive and customizable personal dashboard built with React, featuring drag-and-drop widgets, dark mode, and comprehensive testing.
 
 ##  Key Highlights
 
